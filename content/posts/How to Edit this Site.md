@@ -7,18 +7,28 @@ draft: false
 This site is created using the [Hugo](https://gohugo.io/) static site generator.  Hugo accepts Markdown and translates 
 it into HTML/CSS/JS based on the provided theme.  This site uses the 
 [terminal](https://github.com/panr/hugo-theme-terminal) theme.
- Terminal has some theme-specific futures, which are detailed in the previous link.
+ Terminal has some theme-specific features, which are detailed in the previous link.
  
 ## How to build this site:  
  
- Start by cloning the source repository:  
+Firstly, make sure that you're using a recent version of Hugo.  The version shipped in Debian stable is too old for our 
+purposes.  The author is using v0.55.3. You can check your version with the following command:  
+
+```bash
+hugo version
+```
+
+Hugo can be installed on OS X-  [See Here](https://gohugo.io/getting-started/installing/#macos).  
+
+ Now that we have Hugo installed, start by cloning the source repository:  
  ```bash
  git clone https://github.com/wwucyber/wwucybersite.git
  ```
  
  Notice that there is a git submodule, called `public` locally, within the repo. This submodule is our build repository,
-  which is the Github repo that holds our actual HTML/CSS for the live site. There should be no reason to every push to 
-  the build repo directly- it should only be changed by running our deploy script.  
+  which is the Github repo that holds our actual HTML/CSS for the live site. There should be no reason to ever push to 
+  the build repo directly- it should only be changed by running our deploy script. The only time you'd need to push directly 
+  to the build repo is if you need to remove a post.  Ideally, this will never take place.
   
  Now, let's assume we've made some changes to the site.  To deploy, simply run the included script:
  ```bash
