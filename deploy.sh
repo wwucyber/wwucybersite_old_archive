@@ -16,6 +16,7 @@ cd public
 # Copy the license and README:
 cp ../LICENSE ./
 cp ../README.md ./
+cp ../favicon.ico ./
 # Add changes to git:
 git add .
 
