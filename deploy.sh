@@ -18,7 +18,7 @@ cp ../LICENSE ./
 cp ../README.md ./
 cp ../favicon.ico ./
 # Add changes to git:
-git add .
+git add ./*
 
 # Commit changes to build repo:
 msg="Updating site `date`"
