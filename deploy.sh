@@ -13,18 +13,30 @@ hugo --minify -v
 
 # Go To Public folder:
 cd public
+# Copy the license and README:
+cp ../LICENSE ./
+cp ../README.md ./
 # Add changes to git:
 git add .
 
-# Commit changes:
+# Commit changes to site:
 msg="rebuilding site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
 git commit -m "$msg"
 
-# Push source and build repos:
+# Push build repo:
 git push origin master
 
 # Come Back up to the Project Root:
 cd ..
+
+# Add changes to git:
+git add ./*
+
+# Commit changes to source:
+git commit -m "$msg"
+
+# Push source repo:
+git push origin master

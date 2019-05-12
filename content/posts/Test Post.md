@@ -1,7 +1,7 @@
 ---
 title: "Test Post"
 date: 2019-05-11T18:22:03-07:00
-draft: true
+draft: false
 ---
 
 This is the initial post.  It is here for testing purposes.
