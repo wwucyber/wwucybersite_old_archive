@@ -13,6 +13,8 @@ hugo --minify -v
 
 # Go To Public folder:
 cd public
+# Remove current contents:
+git rm -r ./*
 # Copy the license and README:
 cp ../LICENSE ./
 cp ../README.md ./
@@ -20,7 +22,7 @@ cp ../README.md ./
 git add .
 
 # Commit changes to site:
-msg="rebuilding site `date`"
+msg="Updating site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
