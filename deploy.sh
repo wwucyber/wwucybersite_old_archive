@@ -13,8 +13,6 @@ hugo --minify -v
 
 # Go To Public folder:
 cd public
-# Remove current contents:
-git rm -r ./*
 # Copy the license and README:
 cp ../LICENSE ./
 cp ../README.md ./
