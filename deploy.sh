@@ -8,6 +8,11 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+# Empty the current build repo:
+cd public
+git rm -r ./*
+cd ..
+
 # Build the project:
 hugo --minify -v
 
@@ -19,7 +24,7 @@ cp ../README.md ./
 # Add changes to git:
 git add .
 
-# Commit changes to site:
+# Commit changes to build repo:
 msg="Updating site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
