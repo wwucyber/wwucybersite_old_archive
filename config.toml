@@ -1,4 +1,4 @@
-baseURL = "https://wwucyber.github.io/"
+baseURL = "/"
 
 languageCode = "en-us"
 theme = "terminal"
@@ -29,7 +29,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "WWU Cybersecurity"
+      logoText = "WWU Cybersecurity Club"
       logoHomeLink = "/"
 
     [languages.en.menu]
