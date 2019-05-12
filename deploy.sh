@@ -8,11 +8,6 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-# Empty the current build repo:
-cd public
-git rm -r ./*
-cd ..
-
 # Build the project:
 hugo --minify -v
 
@@ -38,7 +33,7 @@ git push origin master
 cd ..
 
 # Add changes to git:
-git add .
+git add ./*
 
 # Commit changes to source:
 git commit -m "$msg"
