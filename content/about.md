@@ -8,6 +8,7 @@ draft: false
 
 #### Links
 
-[Our Github](https://github.com/wwucyber")  
+[Our Github](https://github.com/wwucyber)  
+[Our Slack](https://wwucyber.slack.com)  
 [WWU Cybersecurity Department](https://cse.wwu.edu/computer-science/computer-information-systems-security-ciss)  
 
