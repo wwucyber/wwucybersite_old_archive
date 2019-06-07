@@ -10,7 +10,7 @@ paginate = 5
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "green"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 4
   # set theme to full screen width
   fullWidthTheme = true
   # center theme with default width
@@ -45,3 +45,7 @@ paginate = 5
         identifier = "resources"
 	    name = "Resources"
 	    url = "/resources"
+	  [[languages.en.menu.main]]
+	    identifier = "calendar"
+	    name = "Calendar"
+	    url = "/calendar"

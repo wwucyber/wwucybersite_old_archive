@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-### CTF Resources:
+### CTF Resources
 
 * [CBT Nuggets: How to Prepare For a CTF Competition](https://www.cbtnuggets.com/blog/2018/07/how-to-prepare-for-a-capture-the-flag-hacking-competition/)
 * [Cybrary: CTF Introduction (useful links at the bottom)](https://www.cybrary.it/0p3n/capture-the-flag-a-thorough-introduction/)
@@ -14,7 +14,7 @@ draft: false
 * [Google: Writeups from previous CTFs](https://drive.google.com/drive/folders/0BwMPuUHZOj0nZ2dGZS1KbWNGN0E)
 
 
-### Blogs:
+### Blogs
 
 * [Krebs on Security](https://krebsonsecurity.com/)
 * [Cisco Talos](https://blog.talosintelligence.com/)
@@ -24,8 +24,15 @@ draft: false
 * [Wired](https://www.wired.com/category/security/)
 * [Ycombinator HackerNews](https://news.ycombinator.com/)
 
-### Various Learning Challenges:
+### Various Learning Challenges
 
 * [Cryptopals: Crypto Implementation](https://cryptopals.com/)
 * [Project Euler: Math and logic challenges](https://projecteuler.net/)
 * [XSS Games: Cross-site scripting challenges](https://www.xssgame.com/)
+
+
+### Free Stuff for Students
+
+* [JetBrains software licenses](https://www.jetbrains.com/student/)
+* [Github Student Developer Pack](https://education.github.com/pack)
+* [Azure Student Credit](https://azure.microsoft.com/en-us/free/students/)
