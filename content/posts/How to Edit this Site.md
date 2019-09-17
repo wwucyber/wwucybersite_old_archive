@@ -56,7 +56,7 @@ hugo new "posts/Your Post Title.md"
 
 Use your favorite editor or IDE to open up this file.  It's located at `content/posts/Your Post Title.md`.
 
-The first thing you'll need to do is set `draft: true`.  
+The first thing you'll need to do is set `draft: false`.  
 
 Next, you'll have to craft your post using Markdown.  There are quite a few good resources online to help you learn, if 
 needed.  Check out the [Markdown tutorial](https://www.markdowntutorial.com/), and consult a 

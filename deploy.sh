@@ -34,7 +34,7 @@ git push origin master
 cd ..
 
 # Add changes to git:
-git add ./*
+git add .
 
 # Commit changes to source:
 git commit -m "$msg"

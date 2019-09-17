@@ -7,7 +7,7 @@ draft: false
 ## Welcome to the WWU Cybersecurity Club!
 
 The club is currently inactive over the summer.  Be on the lookout for updates about our Fall events & meeting schedule, 
-say hi at the fall info fair, and check out the [calendar](../calendar) page for any future activities.
+say hello at the fall info fair, and check out the [calendar](../calendar) page for any future activities.
 
 #### Links
 
