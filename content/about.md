@@ -4,10 +4,16 @@ date: 2019-05-11T18:22:03-07:00
 draft: false
 ---
 
-## Welcome to the WWU Cybersecurity Club!
+## Welcome to the Cybersecurity Club!
 
-The club is currently inactive over the summer.  Be on the lookout for updates about our Fall events & meeting schedule, 
-say hello at the fall info fair, and check out the [calendar](../calendar) page for any future activities.
+We're looking forward to having a great year.
+Check out the [calendar](../calendar) page for any future activities.
+
+Our plans for this year include:  
+* Capture-the-Flag competitions and CCDC practice  
+* CCNA and networking study sessions  
+* Trips to visit security companies & teams  
+* Internship and job-seeking guidance, resume reviews, etc  
 
 #### Links
 
