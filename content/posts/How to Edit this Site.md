@@ -22,7 +22,7 @@ Hugo can be installed on OS X-  [See Here](https://gohugo.io/getting-started/ins
 
  Now that we have Hugo installed, start by cloning the source repository:  
  ```bash
- git clone https://github.com/wwucyber/wwucybersite.git
+ git clone --recursive https://github.com/wwucyber/wwucybersite.git
  ```
  
  Notice that there is a git submodule, called `public` locally, within the repo. This submodule is our build repository,
@@ -30,7 +30,13 @@ Hugo can be installed on OS X-  [See Here](https://gohugo.io/getting-started/ins
   the build repo directly- it should only be changed by running our deploy script. The only time you'd need to push directly 
   to the build repo is if you need to remove a post.  Ideally, this will never take place.
   
- Now, let's assume we've made some changes to the site.  To deploy, simply run the included script:
+Make sure that your submodule is on the correct branch by running the following:  
+
+```bash
+cd public && git checkout master && cd ..
+```  
+  
+Now, let's assume we've made some changes to the site.  To deploy, simply run the included script:  
  ```bash
  ./deploy.sh "Your commit message here"
 ```
