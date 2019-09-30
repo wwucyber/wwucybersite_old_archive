@@ -6,12 +6,13 @@ draft: false
 
 ## Welcome to the Cybersecurity Club!
 
-We're looking forward to having a great year.
-Check out the [calendar](../calendar) page for any future activities.
+We're looking forward to having a great year in 2019 & 2020.
+Check out the [calendar](../calendar) page for our future activities.
 
 Our plans for this year include:  
 * Capture-the-Flag competitions and CCDC practice  
 * CCNA and networking study sessions  
+* Creating virtual testing environments on top of physical hardware  
 * Trips to visit security companies & teams  
 * Internship and job-seeking guidance, resume reviews, etc  
 
