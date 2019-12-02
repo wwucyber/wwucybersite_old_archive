@@ -22,7 +22,7 @@ paginate = 5
   [languages.en]
     title = "WWU Cybersecurity Club"
     subtitle = "The homepage of the Western Washington University Cybersecurity Club"
-    keywords = "wwu, western, cybersecurity, security, infosec, compsci"
+    keywords = "wwu, western, university, cybersecurity, security, infosec, compsci"
     copyright = "Copyright 2019 WWU Cybersecurity Club"
     menuMore = "Show more"
     readMore = "Read more"

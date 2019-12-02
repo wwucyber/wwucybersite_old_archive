@@ -18,7 +18,13 @@ Our plans for this year include:
 
 #### Links
 
-[Our Github](https://github.com/wwucyber)  
-[Our Slack](https://wwucyber.slack.com) (anyone with a WWU email can sign up [here](https://wwucyber.slack.com/signup))  
-[WWU Cybersecurity Program](https://cse.wwu.edu/computer-science/computer-information-systems-security-ciss)  
+* [Our Github](https://github.com/wwucyber)  
+* [Our Slack](https://wwucyber.slack.com) (anyone with a WWU email can sign up [here](https://wwucyber.slack.com/signup))  
+* [WWU Cybersecurity Program](https://cse.wwu.edu/computer-science/computer-information-systems-security-ciss)  
+
+#### Contact
+
+* [cscwwu@gmail.com](mailto:cscwwu@gmail.com)
+* Message Grant or Josh on the Slack
+
 
