@@ -36,4 +36,4 @@ a superforecaster for the Good Judgement project.
 
 Submit your questions here:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeMrbjGSDKE8XvOkM11B2dCdczDOeioOe6tNE4mgwHlQvMdFA/viewform?embedded=true" width="640" height="678" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeMrbjGSDKE8XvOkM11B2dCdczDOeioOe6tNE4mgwHlQvMdFA/viewform?embedded=true" width="640" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
