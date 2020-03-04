@@ -12,7 +12,7 @@ We will depart from campus at approximately 8am, and return at approximately 5:3
 
 Send questions or comments to cscwwu@gmail.com
 
-Signups will close on February 10th.
+Signups will close on February 13th.
 
 By signing up below, you are committing to go on the trip.  Individuals who fail to be present, without notifying club leadership, may not be invited to future company visits.
 

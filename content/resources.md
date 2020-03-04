@@ -8,16 +8,16 @@ draft: false
 
 * [Krebs on Security](https://krebsonsecurity.com/)
 * [Cisco Talos](https://blog.talosintelligence.com/)
+* [Kayne McGladrey](https://www.kaynemcgladrey.com/)
 * [Arstechnica](https://arstechnica.com/)
 * [Daniel Miessler](https://danielmiessler.com/blog)
 * [Phoronix](https://phoronix.com/)
-* [Wired](https://www.wired.com/category/security/)
 * [Ycombinator HackerNews](https://news.ycombinator.com/)  
+
   
 ---
 
-## Programming and Computer Science
-
+## Programming and Computer Science: Tutorials and Resources
 
 ##### Programming
 * [Codecademy](https://www.codecademy.com/) 
@@ -26,12 +26,19 @@ draft: false
 ##### Computer Science and Operating Systems
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
+* [Linux Academy (requires a (free) account)](https://linuxacademy.com/)
 
 ##### Resource Dumps
 * [What Every CS Student Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [Open Source Computer Science Degree](https://github.com/ossu/computer-science)
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#html-css-and-javascript)
 * [OWASP Security Cheatsheet](https://cheatsheetseries.owasp.org/)
+
+##### Security
+* [Portswigger Academy (Webapp Pentesting)](https://portswigger.net/web-security)
+
+##### Cloud
+* [AWS Training](https://aws.amazon.com/training/)
 
 ##### Tools & Other
 * [Markdown Tutorial](https://www.markdowntutorial.com/)
@@ -75,3 +82,5 @@ draft: false
 * [JetBrains software licenses](https://www.jetbrains.com/student/)
 * [Github Student Developer Pack](https://education.github.com/pack)
 * [Azure Student Credit](https://azure.microsoft.com/en-us/free/students/)
+* [Awesome Selfhosted - A list of Free softwareso that you can run 
+services in your homelab](https://github.com/awesome-selfhosted/awesome-selfhosted)
