@@ -1,12 +1,12 @@
 ---
 title: "Western Washington University Cybersecurity Club"
-date: 2019-05-11T18:22:03-07:00
+date: 2020-10-07T18:22:03-07:00
 draft: false
 ---
 
 ## Welcome to the Cybersecurity Club!
 
-We're looking forward to having a great year in 2019 & 2020.
+We're looking forward to having a great year in 2020 & 2021.
 Check out the [calendar](../calendar) page for our future activities.
 
 Our plans for this year include:  
