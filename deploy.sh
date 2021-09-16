@@ -9,7 +9,8 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project:
-hugo --minify -v
+echo "Building Hugo Project.."
+hugo -v
 
 # Go To Public folder:
 cd public
@@ -17,6 +18,18 @@ cd public
 cp ../LICENSE ./
 cp ../README.md ./
 cp ../favicon.ico ./
+#Show user what they are committing
+git diff
+#Prompt to make sure they know what's going on
+while true; do
+    read -p "Please read the above git message and be sure you are aware of what changes you are pushing to live. Y to push N to exit. (y/n)" yn
+    case $yn in
+        [Yy]* ) break;;
+        [Nn]* ) exit;;
+        * ) echo "Yes or No";;
+    esac
+done
+
 # Add changes to git:
 git add .
 

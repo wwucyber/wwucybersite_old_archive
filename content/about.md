@@ -25,6 +25,6 @@ Our plans for this year include:
 #### Contact
 
 * [cscwwu@gmail.com](mailto:cscwwu@gmail.com)
-* Message any Officer on discord
+* Message any Officer on discord test
 
 
