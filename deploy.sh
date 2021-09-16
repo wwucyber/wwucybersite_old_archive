@@ -18,6 +18,8 @@ cd public
 cp ../LICENSE ./
 cp ../README.md ./
 cp ../favicon.ico ./
+#Move into root folder so git diff shows more than just posts
+cd ..
 #Show user what they are committing
 git diff
 #Prompt to make sure they know what's going on
@@ -29,7 +31,8 @@ while true; do
         * ) echo "Yes or No";;
     esac
 done
-
+#Move back to public
+cd public
 # Add changes to git:
 git add .
 
