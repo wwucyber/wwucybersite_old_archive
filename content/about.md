@@ -25,6 +25,6 @@ Our plans for this year include:
 #### Contact
 
 * [cscwwu@gmail.com](mailto:cscwwu@gmail.com)
-* Message Ben or Reginald on the Slack
+* Message any Officer on discord
 
 
