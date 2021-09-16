@@ -3,7 +3,7 @@
 # Hugo site deploy script
 # Original author: the Hugo project
 # https://gohugo.io/hosting-and-deployment/hosting-on-github/
-# Tweaks by Grant Barton
+# Tweaks by Grant Barton and Nathan Burns
 
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
@@ -18,10 +18,12 @@ cd public
 cp ../LICENSE ./
 cp ../README.md ./
 cp ../favicon.ico ./
+
 #Move into root folder so git diff shows more than just posts
 cd ..
 #Show user what they are committing
 git diff
+
 #Prompt to make sure they know what's going on
 while true; do
     read -p "Please read the above git message and be sure you are aware of what changes you are pushing to live. Y to push N to exit. (y/n)" yn
@@ -31,8 +33,10 @@ while true; do
         * ) echo "Yes or No";;
     esac
 done
+
 #Move back to public
 cd public
+
 # Add changes to git:
 git add .
 
