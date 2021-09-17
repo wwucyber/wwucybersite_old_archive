@@ -1,6 +1,6 @@
 ---
 title: "Western Washington University Cybersecurity Club"
-date: "2020-08-22"
+date: "2021-09-16"
 draft: false
 ---
 
