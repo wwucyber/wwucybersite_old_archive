@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-date: 2021-9-16T18:22:03-07:00
+date: "2021-09-16"
 draft: false
 ---
 
