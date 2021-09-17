@@ -30,8 +30,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "WWU Cybersecurity Club"
-      logoHomeLink = "/about"
-
+      logoHomeLink = "/"
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
@@ -49,7 +48,3 @@ paginate = 5
 	    identifier = "calendar"
 	    name = "Calendar"
 	    url = "/calendar"
-      [[languages.en.menu.main]]
-	    identifier = "home"
-	    name = "home"
-	    url = "/home"
