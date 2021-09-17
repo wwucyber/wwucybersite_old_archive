@@ -27,6 +27,7 @@ paginate = 5
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
+    showthedate = false
 
     [languages.en.params.logo]
       logoText = "WWU Cybersecurity Club"
