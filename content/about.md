@@ -6,7 +6,7 @@ draft: false
 
 ## Welcome to the Cybersecurity Club!
 
-We're looking forward to having a great year in 2020 & 2021.
+We're looking forward to having a great year in 2021 & 2021.
 Check out the [calendar](../calendar) page for our future activities.
 
 Our plans for this year include:  
@@ -19,12 +19,6 @@ Our plans for this year include:
 #### Links
 
 * [Our Github](https://github.com/wwucyber)  
-* [Our Slack](https://wwucyber.slack.com) (anyone with a WWU email can sign up [here](https://wwucyber.slack.com/signup))  
+* [Our Discord](https://wwu2.sharepoint.com/sites/WWUCyberComp/SitePages/Join-the-Western-Washington-Cyber-Security-Club-Discord-Server!.aspx) (anyone with a WWU email can join. Create a discord account [here](https://discord.com/register))  
 * [WWU Cybersecurity Program](https://cse.wwu.edu/computer-science/computer-information-systems-security-ciss)  
-
-#### Contact
-
-* [cscwwu@gmail.com](mailto:cscwwu@gmail.com)
-* Message any Officer on Discord
-
 
