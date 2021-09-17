@@ -1,7 +1,7 @@
 ---
 title: "How to Edit This Site"
 date: "2021-09-16"
-showthedate: true
+showthedate: false
 draft: false
 ---
 
