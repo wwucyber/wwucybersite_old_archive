@@ -49,3 +49,7 @@ paginate = 5
 	    identifier = "calendar"
 	    name = "Calendar"
 	    url = "/calendar"
+      [[languages.en.menu.main]]
+	    identifier = "home"
+	    name = "home"
+	    url = "/home"
