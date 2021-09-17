@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-date: 2019-06-03T20:28:48-07:00
+date: 2021-9-16T18:22:03-07:00
 draft: false
 ---
 
