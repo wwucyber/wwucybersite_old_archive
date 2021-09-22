@@ -5,4 +5,4 @@ draft: false
 ---
 
 # New WWU Cybersecurity Certificate Available!
-Hey everyone! WWU has created a 16 credit Cybersecurity certificate! Its offered on the Bellingham and Poulsbo campuses, and is open to most students (Sadly, Computer Science department majors are not eligible). For more info check out the link [here.](https://cs.wwu.edu/cybersecurity/programs-cybercert)
+Hey everyone! WWU has created a 16 credit Cybersecurity certificate! Its offered on the Bellingham and Poulsbo campuses, and is open to most students (Sadly, Computer Science department majors are not eligible). For more info check out the link [here.](https://cs.wwu.edu/cybersecurity/programs-cybercert) test fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest fillertest filler
