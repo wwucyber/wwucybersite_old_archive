@@ -1,7 +1,7 @@
 ---
 title: "WWU Cybersecurity Certificate"
 date: 2021-09-21T22:31:31-07:00
-draft: true
+draft: false
 ---
 
 # New WWU Cybersecurity Certificate Available!
