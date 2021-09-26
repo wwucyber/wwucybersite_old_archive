@@ -82,4 +82,4 @@ draft: false
 * [JetBrains software licenses](https://www.jetbrains.com/student/)
 * [Github Student Developer Pack](https://education.github.com/pack)
 * [Azure Student Credit](https://azure.microsoft.com/en-us/free/students/)
-* [Awesome Selfhosted - A list of Free software for Homelabs](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [Awesome SelfHosted - A list of Free software for Homelabs](https://github.com/awesome-selfhosted/awesome-selfhosted)
