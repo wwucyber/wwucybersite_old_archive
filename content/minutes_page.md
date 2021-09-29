@@ -6,4 +6,4 @@ draft: false
 
 Meeting Minutes will be posted periodically on this page.
 
-[2021-09-28](https://wwucyber.com/minutes/2021-09-28.md)
+[2021-09-28](https://wwucyber.com/minutes/2021-09-28)
