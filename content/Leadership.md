@@ -9,16 +9,15 @@ draft: false
 ## Co-leaders:
  
 
-### Noah: Computer Science Major
+Noah: Computer Science Major
 
-### Sid: Cyber Security Major
+Sid: Cyber Security Major
 
 ## Webmaster/Secretary:
  
 
-### Nathan: Cyber Security Major
+Nathan: Cyber Security Major
 
 ## Officers:
- 
 
-### Douglas: Cyber Security + Physics Major
+ Douglas: Cyber Security + Physics Major
