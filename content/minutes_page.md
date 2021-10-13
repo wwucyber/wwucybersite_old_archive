@@ -8,3 +8,4 @@ Meeting Info will be posted periodically on this page.
 
 
 [2021-10-01](https://wwucyber.com/minutes/2021-10-01)
+[2021-10-12](https://wwucyber.com/minutes/2021-10-12)
