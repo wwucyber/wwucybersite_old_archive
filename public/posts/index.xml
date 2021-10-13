@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on WWU Cybersecurity Club</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on WWU Cybersecurity Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2021 WWU Cybersecurity Club</copyright>
+    <lastBuildDate>Wed, 29 Sep 2021 14:04:03 -0700</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Meeting Info and Schedule</title>
+      <link>/posts/meeting_schedule/</link>
+      <pubDate>Wed, 29 Sep 2021 14:04:03 -0700</pubDate>
+      
+      <guid>/posts/meeting_schedule/</guid>
+      <description>New Meeting Info and Schedule! Based on the data from the Doodle poll that was sent out earlier this week, the Cybersecurity Club has decided that the best time to meet would be every Friday from 4:00 PM to 5:00 PM. Thank you to everyone who completed the poll, it is clear that this time best fits the most people possible. The first meeting will be this Friday, October 1st at 4:00 PM in CF 025.</description>
+    </item>
+    
+    <item>
+      <title>Codebreaker</title>
+      <link>/posts/codebreaker/</link>
+      <pubDate>Tue, 28 Sep 2021 22:28:51 -0700</pubDate>
+      
+      <guid>/posts/codebreaker/</guid>
+      <description>Hey Everyone! This is just a reminder that the NSA&amp;rsquo;s CTF style challenge &amp;ldquo;codebreakers&amp;rdquo; is still ongoing and doesn&amp;rsquo;t end until December 31st. Make sure to check out the #codebreaker-2021 channel in our discord for hints or more info!
+Thank you!</description>
+    </item>
+    
+    <item>
+      <title>CyberForce 2021 Competition Starts Soon</title>
+      <link>/posts/cyberforce2021/</link>
+      <pubDate>Wed, 22 Sep 2021 19:38:37 -0700</pubDate>
+      
+      <guid>/posts/cyberforce2021/</guid>
+      <description>Cybersecurity Club is interested in students to join us for the CyberForce competition! The Department of Energy hosts an annual competition called &amp;ldquo;CyberForce&amp;rdquo;. This competition focuses on defense and securing networks from attacks as opposed to traditional competitions focused on attack. Last year students were tasked with defending a wind farm and this year we are defending a hydroelectric dam. These scenarios are modeled after real world infrastructure and give students extremely valuable experience.</description>
+    </item>
+    
+    <item>
+      <title>WWU Cybersecurity Certificate</title>
+      <link>/posts/certificate/</link>
+      <pubDate>Tue, 21 Sep 2021 22:31:31 -0700</pubDate>
+      
+      <guid>/posts/certificate/</guid>
+      <description>New WWU Cybersecurity Certificate Available! Hey everyone! WWU has created a 16 credit Cybersecurity certificate! Its offered on the Bellingham and Poulsbo campuses, and is open to most students (Sadly, Computer Science department majors are not eligible). For more info check out the link here.
+We encourage everyone interested to check it out! </description>
+    </item>
+    
+    <item>
+      <title>Club Update</title>
+      <link>/posts/club-update/</link>
+      <pubDate>Thu, 16 Sep 2021 20:48:23 -0700</pubDate>
+      
+      <guid>/posts/club-update/</guid>
+      <description>The Cyber Security club is back! It&amp;rsquo;s currently being rebuilt by Noah (Co-President), Sid (Co-President), Nathan, and Douglas. We aim to have everything up and running before the first week of class (September 22nd). Check back here soon for more information on the club, events, and other happenings. Our main method of communication has been discord, the link for which can also be found at the contact and about pages.</description>
+    </item>
+    
+  </channel>
+</rss>
