@@ -2,7 +2,7 @@ baseURL = "/"
 
 languageCode = "en-us"
 theme = "terminal"
-paginate = 5
+paginate = 6
 
 [params]
   # dir name of your blog content (default is `content/posts`)
