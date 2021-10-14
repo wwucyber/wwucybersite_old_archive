@@ -19,7 +19,7 @@ Our plans for this year include:
 #### Links
 
 * [Our Github](https://github.com/wwucyber)  
-* [Our Discord](https://wwu2.sharepoint.com/sites/WWUCyberComp/SitePages/Join-the-Western-Washington-Cyber-Security-Club-Discord-Server!.aspx) (Anyone with a WWU email can join. Create a discord account [here](https://discord.com/register))  
+* [Our Discord](https://discord.gg/hXs2NgTYP5) (Create a discord account [here](https://discord.com/register))  
 * [WWU Cybersecurity Program](https://cs.wwu.edu/cybersecurity)  
 * [WWU Cybersecurity Certificate](https://cs.wwu.edu/cybersecurity/programs-cybercert)
 
