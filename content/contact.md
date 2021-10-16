@@ -6,7 +6,7 @@ draft: false
 
 #### Contact Info
 
-* [cscwwu@gmail.com](mailto:cscwwu@gmail.com)
+* Send an email to [cscwwu@gmail.com](mailto:cscwwu@gmail.com)
 * Message any Officer on [Discord](https://discord.gg/hXs2NgTYP5)
 
 
