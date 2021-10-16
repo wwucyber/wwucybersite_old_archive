@@ -11,14 +11,13 @@ Check out the [calendar](../calendar) page for our future activities.
 
 Our plans for this year include:  
 * Capture-the-Flag competitions and CCDC practice  
-* CCNA and networking study sessions  
-* Creating virtual testing environments on top of physical hardware  
+* Weekly meetings on a variety of topics including Metasploit, Network Analysis, Social Engineering and much [more](topics_for_quarter) 
 * Trips to visit security companies & teams  
 * Internship and job-seeking guidance, resume reviews, etc  
 
 #### Links
 
 * [Our Github](https://github.com/wwucyber)  
-* [Our Discord](https://discord.gg/hXs2NgTYP5) (Create a discord account [here](https://discord.com/register))  
+* [Our Discord](https://discord.gg/hXs2NgTYP5)
 * [WWU Cybersecurity Program](https://cs.wwu.edu/cybersecurity) 
 
