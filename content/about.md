@@ -11,7 +11,7 @@ Check out the [calendar](../calendar) page for our future activities.
 
 Our plans for this year include:  
 * Capture-the-Flag competitions and CCDC practice  
-* Weekly meetings on a variety of topics including Metasploit, Network Analysis, Social Engineering and much [more](topics_for_quarter) 
+* Weekly meetings on a variety of topics including Metasploit, Network Analysis, Social Engineering and much [more](topics_for_quarter)  
 * Trips to visit security companies & teams  
 * Internship and job-seeking guidance, resume reviews, etc  
 
