@@ -6,8 +6,8 @@ draft: false
 
 ## Welcome to the Cybersecurity Club!
 
-We're looking forward to having a great year in 2021 & 2021.  
-Check out the [calendar](../calendar) page for our future activities.  
+We're looking forward to having a great year in 2021 & 2021,
+check out the [calendar](../calendar) page for our future activities.  
 
 Our plans for this year include:  
 * Capture-the-Flag competitions and CCDC practice.  
